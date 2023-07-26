@@ -53,14 +53,16 @@ If you are new to Python, the following resources will help you get started:
 
 In this repository, you will learn a wide range of Python topics, including:
 
+-Variables and data-types
 - Object-oriented programming (OOP)
 - Exception handling
 - List comprehensions
 - Lambda functions
-- Dictionaries and sets
+- Dictionaries, Tuples and sets
 - String manipulation
 - Regular expressions
 - and more!
+- We also covered some Data Science and Machine learning in this repo.
 
 Each topic is presented with explanations and code examples to ensure a comprehensive learning experience.
 
